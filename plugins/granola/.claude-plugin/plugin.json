@@ -1,0 +1,20 @@
+{
+  "name": "granola",
+  "displayName": "Granola",
+  "version": "1.0.0",
+  "description": "Search meeting notes and transcripts, and organise them into folders, with Granola's official MCP server.",
+  "category": "meetings",
+  "author": {
+    "name": "Granola",
+    "url": "https://www.granola.ai"
+  },
+  "homepage": "https://www.granola.ai",
+  "repository": "https://github.com/cambridgeadvancedsystems/jaz-plugins-official",
+  "logo": "./assets/icon.png",
+  "keywords": ["granola", "meetings", "notes", "transcripts"],
+  "suggestedPrompts": [
+    "Summarise what we agreed in yesterday's meetings",
+    "Find the transcript of my last customer call",
+    "List open action items from this week's meetings"
+  ]
+}

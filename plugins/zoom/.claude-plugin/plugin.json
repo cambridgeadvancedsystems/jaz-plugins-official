@@ -1,0 +1,19 @@
+{
+  "name": "zoom",
+  "displayName": "Zoom",
+  "version": "1.0.0",
+  "description": "Search meeting recordings, transcripts and notes with Zoom's official MCP server.",
+  "category": "meetings",
+  "author": {
+    "name": "Zoom",
+    "url": "https://zoom.us"
+  },
+  "homepage": "https://zoom.us",
+  "repository": "https://github.com/cambridgeadvancedsystems/jaz-plugins-official",
+  "logo": "./assets/icon.png",
+  "keywords": ["zoom", "meetings", "recordings", "transcripts", "video"],
+  "suggestedPrompts": [
+    "Find the recording of my last customer meeting",
+    "Summarise the action items from yesterday's Zoom calls"
+  ]
+}

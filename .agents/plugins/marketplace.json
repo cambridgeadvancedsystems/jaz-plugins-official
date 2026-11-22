@@ -1,0 +1,50 @@
+{
+  "name": "jaz-plugins-official",
+  "plugins": [
+    {
+      "name": "tasks",
+      "source": "./plugins/tasks",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "execution": "cloud"
+    },
+    {
+      "name": "crm",
+      "source": "./plugins/crm",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "execution": "cloud"
+    },
+    {
+      "name": "granola",
+      "source": "./plugins/granola",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "execution": "cloud"
+    },
+    {
+      "name": "zoom",
+      "source": "./plugins/zoom",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "execution": "cloud"
+    },
+    {
+      "name": "jaz-skills",
+      "source": "./plugins/jaz-skills",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "NONE"
+      },
+      "execution": "cloud"
+    }
+  ]
+}

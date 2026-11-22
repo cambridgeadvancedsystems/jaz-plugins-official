@@ -1,0 +1,19 @@
+{
+  "name": "crm",
+  "displayName": "Customer Relationship Management",
+  "version": "1.0.0",
+  "description": "Manage people, companies, deals and conversation history in your Jaz CRM workspace.",
+  "category": "productivity",
+  "author": {
+    "name": "Jaz"
+  },
+  "homepage": "https://crm.jaz.chat",
+  "repository": "https://github.com/cambridgeadvancedsystems/jaz-plugins-official",
+  "logo": "./assets/icon.svg",
+  "keywords": ["crm", "contacts", "companies", "deals", "sales"],
+  "suggestedPrompts": [
+    "Show my active deals and contacts that need a follow-up",
+    "Find recent conversations with a customer",
+    "Update a deal stage and log meeting notes"
+  ]
+}

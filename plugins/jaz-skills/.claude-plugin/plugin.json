@@ -1,0 +1,13 @@
+{
+  "name": "jaz-skills",
+  "displayName": "Jaz Skills",
+  "version": "1.0.0",
+  "description": "Core Jaz workflow skills for memory, research, multi-agent councils, UI polish, artifacts and code review.",
+  "category": "productivity",
+  "author": {
+    "name": "Jaz"
+  },
+  "repository": "https://github.com/cambridgeadvancedsystems/jaz-plugins-official",
+  "logo": "./assets/icon.svg",
+  "keywords": ["skills", "jazmem", "research", "council", "review", "ui"]
+}

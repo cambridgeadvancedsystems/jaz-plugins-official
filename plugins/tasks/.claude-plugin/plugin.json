@@ -1,0 +1,19 @@
+{
+  "name": "tasks",
+  "displayName": "Tasks",
+  "version": "1.0.0",
+  "description": "Manage projects, issues, assignments and comments in your Jaz Tasks workspace.",
+  "category": "productivity",
+  "author": {
+    "name": "Jaz"
+  },
+  "homepage": "https://tasks.jaz.chat",
+  "repository": "https://github.com/cambridgeadvancedsystems/jaz-plugins-official",
+  "logo": "./assets/icon.svg",
+  "keywords": ["tasks", "issues", "projects", "planning"],
+  "suggestedPrompts": [
+    "Show my open issues and help me plan the next week",
+    "Create a new issue in my default project",
+    "Summarise recent progress across active projects"
+  ]
+}
