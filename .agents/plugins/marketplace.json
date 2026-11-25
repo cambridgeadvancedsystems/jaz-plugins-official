@@ -45,6 +45,15 @@
         "authentication": "NONE"
       },
       "execution": "cloud"
+    },
+    {
+      "name": "revit-view-extract",
+      "source": "./plugins/revit-view-extract",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "NONE"
+      },
+      "execution": "local"
     }
   ]
 }
